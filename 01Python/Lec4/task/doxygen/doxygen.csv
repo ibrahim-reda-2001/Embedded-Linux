@@ -1,0 +1,3 @@
+brief,parameters,retturn
+Adds two integers. ,"['a', 'First integer. ', 'b', 'Second integer. ']",Sum of the two integers. 
+Subtracts the second integer from the first. ,"['a', 'First integer. ', 'b', 'Second integer. ']",Difference of the two integers. 
